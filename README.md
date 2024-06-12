@@ -1,6 +1,6 @@
-# Project Title
+# Scraping Cohen & Steers HR Page for PDF's
 
-Brief description of what the project does.
+Code helps to train the CoPilot Model on the HR database information to help users ask questions to increase productivity!
 
 ## Installation
 
