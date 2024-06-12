@@ -16,8 +16,13 @@ Brief description of what the project does.
 
 3. Install dependencies:
     ```bash
-    npm install
+    pip install -r requirments.txt
     ```
+
+4. Run File and change link to any site you would like to scrape for PDFs or DocX
+   ```bash
+   py ./WebScraper.py
+   ```
 
 ## Usage
 
