@@ -1,3 +1,0 @@
-requests >= 1 
-beautifulsoup4 >= 4
-urllib.parse >= 1
